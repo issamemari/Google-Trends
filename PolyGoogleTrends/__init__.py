@@ -1,0 +1,2 @@
+from PolyGoogleTrends.PolyGoogleTrends import get_historical_interest
+from PolyGoogleTrends.Plotter import plotDataFrame
